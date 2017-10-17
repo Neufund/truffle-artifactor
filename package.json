@@ -27,7 +27,7 @@
     "async": "^1.5.2",
     "fs-extra": "^1.0.0",
     "lodash": "^4.11.2",
-    "truffle-contract": "^2.0.3",
+    "truffle-contract": "github:Neufund/truffle-contract#neufund",
     "truffle-contract-schema": "^0.0.5"
   }
 }
